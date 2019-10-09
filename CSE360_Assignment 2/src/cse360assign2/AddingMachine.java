@@ -1,3 +1,15 @@
+/** 
+* Assignment #: 2
+* Name: Chan Maung
+* StudentID: 1212813678
+* LectureID: 70641
+* Description: This class take a int value and add or subtract to var total.
+* 				Also store operations in a string.
+*/
+
+
+
+
 package cse360assign2;
 
 public class AddingMachine {
